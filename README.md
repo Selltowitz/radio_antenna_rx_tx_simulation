@@ -1,8 +1,12 @@
 # Radio Antenna RX/TX Simulation
 This is a MATLAB project, which was made in the course "N14 Digital Broadband Communication" at [University of Applied Sciences HTW Berlin](https://www.htw-berlin.de/) by Prof. Dr.-Ing. Markus Nölle and Dipl. Ing. Lutz Molle.
+
 [Markus Nölle GitHub](https://github.com/htw-ikt-noelle)
+
 [Markus Nölle GitLab](https://htw-ikt-noelle.gitlab.io)
+
 [Markus Nölle ResearchGate](https://www.researchgate.net/profile/Markus-Noelle-3)
+
 [Lutz Molle ResearchGate](https://www.researchgate.net/profile/Lutz_Molle)
 
 ## Content
