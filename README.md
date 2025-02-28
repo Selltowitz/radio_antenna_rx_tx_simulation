@@ -28,4 +28,5 @@ This project simulates a RX and TX antenna as well as the channel. It does the f
   - simulation_DifferentRiceChannels.m
   - simulation_Diversity.m
   - simulation2.m
+    
   Those are using the functions inside the folder "subfunctions"
