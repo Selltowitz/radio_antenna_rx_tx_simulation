@@ -23,10 +23,10 @@ This project simulates a RX and TX antenna as well as the channel. It does the f
 - aborting the simulation when a specific number of errors have occured
 - comparing different aspects of the above and plotting them
 
-  ## Basic how to use
-  Use the main simulation functions:
-  - simulation_DifferentRiceChannels.m
-  - simulation_Diversity.m
-  - simulation2.m
+## Basic how to use
+Use the main simulation functions:
+- simulation_DifferentRiceChannels.m
+- simulation_Diversity.m
+- simulation2.m
     
-  Those are using the functions inside the folder "subfunctions"
+Those are using the functions inside the folder "subfunctions"
